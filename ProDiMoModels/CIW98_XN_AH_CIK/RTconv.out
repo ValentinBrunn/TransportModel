@@ -1,0 +1,36 @@
+RT-iteration   1:  J-change= 1.00E+00 T-change= 2.88E-05
+RT-iteration   2:  J-change= 1.00E+00 T-change= 1.13E-06
+RT-iteration   3:  J-change= 9.96E-01 T-change= 1.30E-07
+RT-iteration   4:  J-change= 5.46E-03 T-change= 1.31E-08
+RT-iteration   5:  J-change= 4.04E-03 T-change= 2.60E-09
+      NG-iter: ok=T J-change= 2.73E-04 T-change= 3.05E-16
+RT-iteration   6:  J-change= 4.00E-03 T-change= 5.01E-10
+RT-iteration   7:  J-change= 3.95E-03 T-change= 9.35E-11
+RT-iteration   8:  J-change= 3.90E-03 T-change= 1.70E-11
+RT-iteration   9:  J-change= 3.85E-03 T-change= 3.03E-12
+      NG-iter: ok=T J-change= 4.42E-04 T-change= 2.71E-16
+RT-iteration  10:  J-change= 3.81E-03 T-change= 5.43E-13
+RT-iteration  11:  J-change= 3.76E-03 T-change= 9.61E-14
+RT-iteration  12:  J-change= 3.72E-03 T-change= 1.68E-14
+RT-iteration  13:  J-change= 3.67E-03 T-change= 2.94E-15
+      NG-iter: ok=T J-change= 1.06E-05 T-change= 2.72E-16
+RT-iteration  14:  J-change= 3.63E-03 T-change= 6.48E-16
+RT-iteration  15:  J-change= 3.58E-03 T-change= 5.38E-16
+RT-iteration  16:  J-change= 3.54E-03 T-change= 5.56E-16
+RT-iteration  17:  J-change= 3.50E-03 T-change= 5.56E-16
+      NG-iter: ok=T J-change= 3.60E-03 T-change= 3.05E-16
+RT-iteration  18:  J-change= 3.41E-03 T-change= 4.00E-16
+RT-iteration  19:  J-change= 3.37E-03 T-change= 5.06E-16
+RT-iteration  20:  J-change= 3.33E-03 T-change= 4.43E-16
+RT-iteration  21:  J-change= 3.29E-03 T-change= 5.39E-16
+      NG-iter: ok=T J-change= 2.26E-04 T-change= 2.72E-16
+RT-iteration  22:  J-change= 3.26E-03 T-change= 4.00E-16
+RT-iteration  23:  J-change= 3.22E-03 T-change= 4.07E-16
+RT-iteration  24:  J-change= 3.18E-03 T-change= 5.56E-16
+RT-iteration  25:  J-change= 3.15E-03 T-change= 5.56E-16
+RT-iteration  26:  J-change= 3.14E-03 T-change= 5.39E-16
+RT-iteration  27:  J-change= 3.15E-03 T-change= 4.68E-16
+      NG-iter: ok=T J-change= 1.57E-02 T-change= 3.05E-16
+RT-iteration  28:  J-change= 3.21E-03 T-change= 4.00E-16
+RT-iteration  29:  J-change= 3.22E-03 T-change= 5.56E-16
+RT-iteration  30:  J-change= 3.16E-03 T-change= 4.43E-16

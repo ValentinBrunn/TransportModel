@@ -1,0 +1,25 @@
+*** active the X-ray RT
+.true.     ! XrayRT          : do Xray radiative transfer?
+.true.     ! XrayRT_chem     : couple Xray_RT to chemistry
+25         ! NXray
+4          ! XrayRT_opac
+2          ! maxit
+30         ! RTitmax
+0.01       ! tol_convergence   : convergence criterion for global interation
+
+.true.    ! restart
+.true.    ! radtrans      : false only do the X-ray RT
+
+
+1.E-8       ! Mdot        [Msol/yr]: accretion rate
+.true.      ! dust_nonRE           : dust not in radiative equilibrium
+.false.     ! VHEAT_GAS            : put heat into the dust
+
+**** just do LT
+.true.      ! calcSED            : calculate SED and images?
+.true.      ! freeze_RT         : freeze radiative transfer results Td/Jv?
+.true.      ! freeze_diskstruc  : freeze density/pressure structure?
+***.true.      ! freeze_Tgas       : freeze gas temperature?
+***.true.      ! freeze_chemistry  : freeze chemical concentrations?
+1           ! maxit 
+
